@@ -1,0 +1,75 @@
+/*reset*/
+
+body{
+    background-color: white;
+    text-align: center;
+    border-radius: 100px;
+}
+header{
+    padding: 30px;
+    text-align: center;
+}
+header img{
+    width:250px;
+    background-color: wh;
+}
+
+header nav ul li{
+    display: inline-block;
+    padding: 7px;
+    background-color: tomato;
+    border-radius: 30px;
+
+}
+
+main{
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+   
+}
+
+main img{
+    width: 250px;
+    text-align:center;
+    border-radius: 100px;
+}
+
+
+footer  {
+    text-align: center;
+    color: black;
+}
+.boton_arriba{
+    background-color:tomato;
+    border-radius: 30px;
+}
+
+/*Contacto*/
+
+.enlace_1{
+    background-color: tomato;
+    border-radius: 30px;
+  
+}
+.enlace__2{
+    background-color: tomato;
+}
+.enlace-3{
+    background-color: tomato;
+
+}
+.enlace--4{
+    background-color: tomato;
+}
+/*Correo*/
+.paleta{
+    background-color: white;
+}
+.input--1{
+    text-align: center;
+
+}
+.imagen_contacto{
+    border-radius: 60px;
+}
